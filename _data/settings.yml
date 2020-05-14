@@ -4,10 +4,10 @@
 #  disqus_shortname: 'millennial-3'
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
-# google-ID: 'UA-166176851-1'
+google-ID: 'UA-166176851-1'
 
 menu:
-- {name: 'Projects', folder: 'pages', file: 'projects.html'}
+#- {name: 'Projects', folder: 'pages', file: 'projects.html'}
 - {name: 'Github', folder: 'pages', file: 'github.html'}
 - {name: 'Tutorials', folder: 'pages', file: 'tutorials.html'}
 - {name: 'About', folder: 'pages', file: 'about.html'}
