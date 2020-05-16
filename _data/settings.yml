@@ -10,6 +10,7 @@ menu:
 #- {name: 'Projects', folder: 'pages', file: 'projects.html'}
 - {name: 'Github', folder: 'pages', file: 'github.html'}
 - {name: 'Tutorials', folder: 'pages', file: 'tutorials.html'}
+- {name: 'Notes', folder: 'pages', file: 'notes.html'}
 - {name: 'About', folder: 'pages', file: 'about.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
