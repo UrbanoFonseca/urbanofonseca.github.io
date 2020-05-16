@@ -7,6 +7,10 @@ tags: [notes]
 image: mountain-1.jpg
 ---
 
+# Lectures On Causality
+These are personal notes based on a series of [lectures](https://www.youtube.com/watch?v=zvrcyqcN9Wo) from Jonas Peters.
+
+
 ## Part 0 - Motivation
 
 ### Statistics vs Causality
