@@ -18,13 +18,13 @@ In this article we present a high-level overview of the Cross-Validation techniq
 > Estimating generalization performance is a crucial step when training and deploying machine learning models. The ultimate goal of a Data Scientist is to build data pipelines and train machine learning models that are able to generalize and achieve good, consistent results in production. 
 
 On a typical real-life scenario, we have 3 sources of data (with corresponding availability at training stage):
-1. Training, used to train and optimize the model, available;
-2. Validation, typically as holdout from source 1., used to estimate deployment performance, available;
-3. Production, which you do not see until model is deployed, not available.
+1. Training, _used to train and optimize the model, available;_
+2. Validation, _typically as holdout from source 1., used to estimate deployment performance, available;_
+3. Production, _which you do not see until model is deployed, not available._
 
-We are focused on achieving the best performance possible during the training stage without loss of generalization ability; maximising performance on the Training set and keeping such performance on Validation and (hopefully) in Production.
+We are focused on achieving the best performance possible during the training stage without loss of generalization ability; maximising performance on the Training set and keeping such performance on Validation and _(hopefully)_ in Production.
 
-Thus, it's key to understand how the model behaves on those multiple stages, making sure that our model didn't overfit to the training data and it's still able to predict correctly in Production. One common technique to estimate such model's ability to generalize is Cross-Validation.
+Thus, it's key to understand how the model behaves on those multiple stages, making sure that our model didn't overfit to the training data and it's still able to predict correctly in Production. One common technique to estimate such model's ability to generalize is **Cross-Validation**.
 
 
 ---
