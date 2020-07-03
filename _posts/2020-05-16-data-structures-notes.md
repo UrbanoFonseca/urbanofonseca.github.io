@@ -28,7 +28,7 @@ _How much time/space does this algorithm need to finish?_
 
 | Time | Big-O |
 | :--- | :--- |
-| Linear | O\(1\) |
+| Constant | O\(1\) |
 | Logarithmic | O\(log\(n\)\) |
 | Linear | O\(n\) |
 | Linearithmic | O\(nlog\(n\)\) |
