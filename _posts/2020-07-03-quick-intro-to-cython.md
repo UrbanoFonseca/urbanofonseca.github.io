@@ -152,6 +152,7 @@ for i in range(5):
 
 ## In a Nutshell
 > Get the python code. Define the types and function calls inside C whenever possible. Setup the Cythonizer with distutils. Import the optimized module.
+
 Additionally, Cython requires you to have C compiler _(protip: use VSCode + WSL on Windows)_.
 
 ## Tips and Tricks
