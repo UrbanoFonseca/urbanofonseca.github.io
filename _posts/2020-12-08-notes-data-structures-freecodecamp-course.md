@@ -6,8 +6,6 @@ categories: notes
 tags: [notes]
 image: barcelona-1.jpg
 ---
-# Data Structures Easy to Advanced
-
 ## The Course
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/RBSGKlAvoiM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

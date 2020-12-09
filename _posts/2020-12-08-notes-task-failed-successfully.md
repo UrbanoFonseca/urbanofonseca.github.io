@@ -6,8 +6,6 @@ categories: notes
 tags: [notes]
 image: barcelona-2.jpg
 ---
-
-# Task Failed Successfully
 ## The Talk
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/TlawR_gi8-Y?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
